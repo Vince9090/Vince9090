@@ -1,3 +1,3 @@
 ## 😎
 
-![rickroll](https://github.com/Vince9090/Vince9090/assets/143236024/26badb65-4ff3-49ba-afa6-96702cfbf34a)
+![Image](https://github.com/user-attachments/assets/95c5bed1-94bb-43ce-a245-4f3b20700a3d)
