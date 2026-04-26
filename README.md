@@ -1,5 +1,5 @@
 
 <div align="center">
   <h3>Vince 9090's Lobby </h3>
-  <image src="https://github.com/user-attachments/assets/7c292def-907c-49b8-8fc1-b95194b6ff5d"/>
+  <img width="1200" height="1144" alt="Image" src="https://github.com/user-attachments/assets/50c3f84e-8810-43cc-91c4-bf8aa057c8dd" />
 </div>
